@@ -24,7 +24,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",
-    "@docusaurus/types": "3.7.0"
+    "@docusaurus/types": "3.7.0",
+    "gh-pages": "^6.3.0"
   },
   "browserslist": {
     "production": [
@@ -42,7 +43,7 @@
     "node": ">=18.0"
   },
   "repository": {
-  "type": "git",
-  "url": "git@github.com:WelfBrandolf/dev-com-ad-proposals.git"
+    "type": "git",
+    "url": "git@github.com:WelfBrandolf/dev-com-ad-proposals.git"
   }
 }
