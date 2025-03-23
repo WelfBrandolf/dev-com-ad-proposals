@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_com_ad_proposals=self.webpackChunkdev_com_ad_proposals||[]).push([[5960],{2060:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/dev-com-ad-proposals/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

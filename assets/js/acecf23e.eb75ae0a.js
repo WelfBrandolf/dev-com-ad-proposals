@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_com_ad_proposals=self.webpackChunkdev_com_ad_proposals||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/dev-com-ad-proposals/blog","blogTitle":"Blog","authorsListPath":"/dev-com-ad-proposals/blog/authors"}')}}]);
