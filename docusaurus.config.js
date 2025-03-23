@@ -76,11 +76,12 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
+        /*
         items: [
           {
             type: 'docSidebar',
@@ -95,10 +96,12 @@ const config = {
             position: 'right',
           },
         ],
+        */
       },
       footer: {
         style: 'dark',
         links: [
+          /*
           {
             title: 'Docs',
             items: [
@@ -108,20 +111,17 @@ const config = {
               },
             ],
           },
+          */
           {
-            title: 'Community',
+            title: 'Find me on',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'X (formerly twitter)',
+                href: 'https://x.com/WelfBrandolf',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/taras-sandbrink/',
               },
             ],
           },
@@ -129,12 +129,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'My Stake Pool',
+                href: 'https://novapool.io/?l=en/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Depinity',
+                href: 'https://depinity.io/',
               },
             ],
           },
